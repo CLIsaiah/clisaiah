@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**CLIsaiah/clisaiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Isaiah. A chill developer who doesn't consider a project 'finished' until every feature is perfect and polished.
 
-Here are some ideas to get you started:
+I'm currently working on a simple, 3D parkour simulator game called ***VCParkour***) using Three.js and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Here's my primary, *modern* web stack:
+- Typescript
+- Bun
+- Svelte
+- Threejs (sometimes)
+
+My current editor of choice (at least for web dev) is VSCode. Though, I'm becoming increaingly interested in Neovim for many of my projects. I'm also familiar with some of the JetBrains suite of IDE's including: PyCharm, Intellij, and CLIon.
+
+With all that said, if you're still skeptical of my abilities, just know that I use arch (btw).
